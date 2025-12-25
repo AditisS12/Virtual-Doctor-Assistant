@@ -75,9 +75,7 @@ We welcome contributions! To contribute:
 ## License 📜
 This project is licensed under the MIT License.
 
-## Acknowledgements 🙏
-- Groq API for powering AI interactions.
-- Streamlit for providing an easy-to-use framework for building interactive apps.
+
 
 
 
