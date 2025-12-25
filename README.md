@@ -79,7 +79,5 @@ This project is licensed under the MIT License.
 - Groq API for powering AI interactions.
 - Streamlit for providing an easy-to-use framework for building interactive apps.
 
-## Contact 📧
-For any inquiries or issues, please contact:
-- **Ayan Srivastava:** [LinkedIn](https://www.linkedin.com/in/ayan-srivastava11/)
+
 
